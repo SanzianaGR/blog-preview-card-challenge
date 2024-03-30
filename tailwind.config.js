@@ -8,6 +8,9 @@ module.exports = {
        'custom-white': 'hsl(0, 0%, 100%)',
        'custom-black': 'hsl(0, 0%, 7%)',
       },
+      fontFamily: {
+        'Figtree': ['Figtree', 'sans'],
+      },
     },
   },
   plugins: [],
