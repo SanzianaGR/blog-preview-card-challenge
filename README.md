@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SanzianaGR/blog-preview-card-challenge](https://github.com/SanzianaGR/blog-preview-card-challenge)
-- Live Site URL: [sanzianagr.github.io/blog-preview-card-challenge](sanzianagr.github.io/blog-preview-card-challenge)
+- Live Site URL: [sanzianagr.github.io/blog-preview-card-challenge](https://sanzianagr.github.io/blog-preview-card-challenge/)
 
 
 ### Built with
